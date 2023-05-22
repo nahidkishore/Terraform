@@ -1,0 +1,13 @@
+AWS_practice/.terraform.lock.hcl
+practice/.terraform.lock.hcl
+Projects/aws_module_project/.terraform.lock.hcl
+Projects/Aws_related/.terraform.lock.hcl
+AWS_practice/terraform.tfstate
+Docker_practice/terraform.tfstate
+Docker_practice/terraform.tfstate.backup
+practice/terraform.tfstate
+practice/terraform.tfstate.backup
+Projects/aws_module_project/terraform.tfstate
+Projects/aws_module_project/terraform.tfstate.backup
+Projects/Aws_related/.terraform/terraform.tfstate
+Docker_practice/.terraform.lock.hcl
